@@ -1,3 +1,3 @@
-Dependency: CobraToolbox (Tested with version: 2.42.0), ibm-cplex (Tested with v1210)
-Run the case study: AdaptUC_case_study.m
+Dependency: CobraToolbox (Tested with version: 2.42.0), ibm-cplex (Tested with v1210)\n
+Run the case study: AdaptUC_case_study.m\n
 More content and documentation will be added...
